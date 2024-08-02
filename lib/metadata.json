@@ -1,0 +1,617 @@
+{
+  "vaultName": "2",
+  "lastExport": 1722612719262,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "projects/NL_2p1/extra modules/behavioral imaging/files/tissue camera past objective simulation.json",
+    "projects/NL_2p1/extra modules/behavioral imaging/files/tissue-camera_ray-optics-simulation_sketch1.png",
+    "projects/NL_2p1/extra modules/behavioral imaging/Behavioral imaging.md",
+    "projects/NL_2p1/extra modules/behavioral imaging/Tissue camera.md",
+    "projects/NL_2p1/extra modules/cooling system/Cooling system.md",
+    "projects/NL_2p1/extra modules/enclosure/Enclosure.md",
+    "projects/NL_2p1/extra modules/enclosure/LED lighting.md",
+    "projects/NL_2p1/extra modules/software modules/Software modules.md",
+    "projects/NL_2p1/extra modules/stage/files/NL-2p1_z-stage actuator.png",
+    "projects/NL_2p1/extra modules/stage/Stage.md",
+    "projects/NL_2p1/extra modules/Extra modules.md",
+    "projects/NL_2p1/extra modules/Projector system.md",
+    "projects/NL_2p1/extra modules/Spectra-Physics Insight-X3.md",
+    "projects/NL_2p1/extra modules/Stepper motors.md",
+    "projects/NL_2p1/files/2p-scanning.xlsx",
+    "projects/NL_2p1/files/3D Model.md",
+    "projects/NL_2p1/files/NL-2p-1 v12.f3z",
+    "projects/NL_2p1/files/NL-2p1_3D-model.png",
+    "projects/NL_2p1/files/NL-2p1_asmbly.xlsx.md",
+    "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_beam-forming module.png",
+    "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_periscope.png",
+    "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_pre-scanner.png",
+    "projects/NL_2p1/main scanning path/pre-scanner/Beam forming.md",
+    "projects/NL_2p1/main scanning path/pre-scanner/construction, alignment.md",
+    "projects/NL_2p1/main scanning path/pre-scanner/maintenance alignment.md",
+    "projects/NL_2p1/main scanning path/pre-scanner/Periscope.md",
+    "projects/NL_2p1/main scanning path/pre-scanner/Pre-scanner.md",
+    "projects/NL_2p1/main scanning path/scanner/pics/NL-2p1_parabolic-galvo-scanner.png",
+    "projects/NL_2p1/main scanning path/scanner/Parabolic galvo scanner.md",
+    "projects/NL_2p1/main scanning path/scanner/Scan-Tube lens system.md",
+    "projects/NL_2p1/main scanning path/Main scanning path.md",
+    "projects/NL_2p1/main scanning path/Objective.md",
+    "projects/NL_2p1/main scanning path/Piezo motor.md",
+    "projects/NL_2p1/main scanning path/Shutter.md",
+    "projects/NL_2p1/parts and purchasing system/Purchasing system.md",
+    "projects/NL_2p1/path 2 - Photostimulation module/path 2 - Photostimulation module.md",
+    "projects/NL_2p1/path 2 - Photostimulation module/Photostim Galvo Scanner.md",
+    "projects/NL_2p1/path 2 - Photostimulation module/Pre-SLM.md",
+    "projects/NL_2p1/path 2 - Photostimulation module/Scan-Tube Lens system & Polarization beamsplitter.md",
+    "projects/NL_2p1/path 2 - Photostimulation module/SLM.md",
+    "projects/NL_2p1/path 2 - Photostimulation module/SLM-to-galvo.md",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210906_195607.jpg",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210906_202945.jpg",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210906_203235.jpg",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_190710.jpg",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_190715.jpg",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_193334.jpg",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_193513.jpg",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_193956.jpg",
+    "projects/NL_2p1/PMT detection system/files/alignment/20210908_090937.jpg",
+    "projects/NL_2p1/PMT detection system/files/spectra/FF01-554_23_Spectrum.txt",
+    "projects/NL_2p1/PMT detection system/files/spectra/FF01-590_36_Spectrum.txt",
+    "projects/NL_2p1/PMT detection system/files/spectra/NL-2p1_filters-dichroics_spectra.png",
+    "projects/NL_2p1/PMT detection system/files/tmp/red_fluorophores_filters_sources2b.png",
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_green-channel.png",
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_green-channel_optics.png",
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_PMT detection system.png",
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_PMT detection system_hightlighted optics.png",
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_red-channels.png",
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_red-channels_optics.png",
+    "projects/NL_2p1/PMT detection system/maintenance alignment.md",
+    "projects/NL_2p1/PMT detection system/PMT detection system.md",
+    "projects/NL_2p1/PMT detection system/PMT detection system spectra.md",
+    "projects/NL_2p1/Software assemblies and usage/Software assemblies and usage.md",
+    "projects/NL_2p1/_NL_2p1 content.md",
+    "projects/NL_2p1/_TODO.md",
+    "projects/NL_2p1/Design of the modular two-photon microscope with photostimulation implemented in Naumann Lab.md",
+    "projects/NL_2p1/NL_2p1 overview.md",
+    "projects/NL_2p1/Untitled.canvas",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg"
+  ],
+  "fileInfo": {
+    "projects/NL_2p1/extra modules/behavioral imaging/files/tissue camera past objective simulation.json": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 3836,
+      "exportedPath": "projects/NL_2p1/extra modules/behavioral imaging/files/tissue camera past objective simulation.json",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/behavioral imaging/files/tissue-camera_ray-optics-simulation_sketch1.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 119015,
+      "exportedPath": "projects/NL_2p1/extra modules/behavioral imaging/files/tissue-camera_ray-optics-simulation_sketch1.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/behavioral imaging/Behavioral imaging.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 452,
+      "exportedPath": "projects/NL_2p1/extra modules/behavioral imaging/Behavioral imaging.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/behavioral imaging/Tissue camera.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 1134,
+      "exportedPath": "projects/NL_2p1/extra modules/behavioral imaging/Tissue camera.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/cooling system/Cooling system.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/extra modules/cooling system/Cooling system.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/enclosure/Enclosure.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 21,
+      "exportedPath": "projects/NL_2p1/extra modules/enclosure/Enclosure.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/enclosure/LED lighting.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/extra modules/enclosure/LED lighting.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/software modules/Software modules.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/extra modules/software modules/Software modules.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/stage/files/NL-2p1_z-stage actuator.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 581350,
+      "exportedPath": "projects/NL_2p1/extra modules/stage/files/NL-2p1_z-stage actuator.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/stage/Stage.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 461,
+      "exportedPath": "projects/NL_2p1/extra modules/stage/Stage.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/Extra modules.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/extra modules/Extra modules.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/Projector system.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/extra modules/Projector system.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/Spectra-Physics Insight-X3.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/extra modules/Spectra-Physics Insight-X3.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/extra modules/Stepper motors.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/extra modules/Stepper motors.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/files/2p-scanning.xlsx": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 225258,
+      "exportedPath": "projects/NL_2p1/files/2p-scanning.xlsx",
+      "dependencies": []
+    },
+    "projects/NL_2p1/files/3D Model.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 581,
+      "exportedPath": "projects/NL_2p1/files/3D Model.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/files/NL-2p-1 v12.f3z": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 117783104,
+      "exportedPath": "projects/NL_2p1/files/NL-2p-1 v12.f3z",
+      "dependencies": []
+    },
+    "projects/NL_2p1/files/NL-2p1_3D-model.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 875145,
+      "exportedPath": "projects/NL_2p1/files/NL-2p1_3D-model.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/files/NL-2p1_asmbly.xlsx.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 44,
+      "exportedPath": "projects/NL_2p1/files/NL-2p1_asmbly.xlsx.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_beam-forming module.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 373081,
+      "exportedPath": "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_beam-forming module.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_periscope.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 221177,
+      "exportedPath": "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_periscope.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_pre-scanner.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 462794,
+      "exportedPath": "projects/NL_2p1/main scanning path/pre-scanner/pics/NL-2p1_pre-scanner.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/pre-scanner/Beam forming.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 571,
+      "exportedPath": "projects/NL_2p1/main scanning path/pre-scanner/Beam forming.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/pre-scanner/construction, alignment.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/main scanning path/pre-scanner/construction, alignment.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/pre-scanner/maintenance alignment.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/main scanning path/pre-scanner/maintenance alignment.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/pre-scanner/Periscope.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 658,
+      "exportedPath": "projects/NL_2p1/main scanning path/pre-scanner/Periscope.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/pre-scanner/Pre-scanner.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 729,
+      "exportedPath": "projects/NL_2p1/main scanning path/pre-scanner/Pre-scanner.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/scanner/pics/NL-2p1_parabolic-galvo-scanner.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 575835,
+      "exportedPath": "projects/NL_2p1/main scanning path/scanner/pics/NL-2p1_parabolic-galvo-scanner.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/scanner/Parabolic galvo scanner.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 47,
+      "exportedPath": "projects/NL_2p1/main scanning path/scanner/Parabolic galvo scanner.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/scanner/Scan-Tube lens system.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/main scanning path/scanner/Scan-Tube lens system.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/Main scanning path.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 442,
+      "exportedPath": "projects/NL_2p1/main scanning path/Main scanning path.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/Objective.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/main scanning path/Objective.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/Piezo motor.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/main scanning path/Piezo motor.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/main scanning path/Shutter.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/main scanning path/Shutter.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/parts and purchasing system/Purchasing system.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 448,
+      "exportedPath": "projects/NL_2p1/parts and purchasing system/Purchasing system.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/path 2 - Photostimulation module/path 2 - Photostimulation module.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/path 2 - Photostimulation module/path 2 - Photostimulation module.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/path 2 - Photostimulation module/Photostim Galvo Scanner.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/path 2 - Photostimulation module/Photostim Galvo Scanner.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/path 2 - Photostimulation module/Pre-SLM.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/path 2 - Photostimulation module/Pre-SLM.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/path 2 - Photostimulation module/Scan-Tube Lens system & Polarization beamsplitter.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/path 2 - Photostimulation module/Scan-Tube Lens system & Polarization beamsplitter.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/path 2 - Photostimulation module/SLM.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/path 2 - Photostimulation module/SLM.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/path 2 - Photostimulation module/SLM-to-galvo.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/path 2 - Photostimulation module/SLM-to-galvo.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210906_195607.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 218452,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210906_195607.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210906_202945.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 291777,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210906_202945.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210906_203235.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 236641,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210906_203235.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_190710.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 192351,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210907_190710.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_190715.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 194923,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210907_190715.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_193334.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 200357,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210907_193334.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_193513.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 189445,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210907_193513.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210907_193956.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 207255,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210907_193956.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/alignment/20210908_090937.jpg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 190809,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/alignment/20210908_090937.jpg",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/spectra/FF01-554_23_Spectrum.txt": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 72859,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/spectra/FF01-554_23_Spectrum.txt",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/spectra/FF01-590_36_Spectrum.txt": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 78202,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/spectra/FF01-590_36_Spectrum.txt",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/spectra/NL-2p1_filters-dichroics_spectra.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 150198,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/spectra/NL-2p1_filters-dichroics_spectra.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/tmp/red_fluorophores_filters_sources2b.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 217025,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/tmp/red_fluorophores_filters_sources2b.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_green-channel.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 308767,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/NL-2p1_green-channel.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_green-channel_optics.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 279492,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/NL-2p1_green-channel_optics.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_PMT detection system.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 217290,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/NL-2p1_PMT detection system.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_PMT detection system_hightlighted optics.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 298586,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/NL-2p1_PMT detection system_hightlighted optics.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_red-channels.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 407997,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/NL-2p1_red-channels.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/files/NL-2p1_red-channels_optics.png": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 56601,
+      "exportedPath": "projects/NL_2p1/PMT detection system/files/NL-2p1_red-channels_optics.png",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/maintenance alignment.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 1081,
+      "exportedPath": "projects/NL_2p1/PMT detection system/maintenance alignment.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/PMT detection system.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 1145,
+      "exportedPath": "projects/NL_2p1/PMT detection system/PMT detection system.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/PMT detection system/PMT detection system spectra.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 475,
+      "exportedPath": "projects/NL_2p1/PMT detection system/PMT detection system spectra.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/Software assemblies and usage/Software assemblies and usage.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/Software assemblies and usage/Software assemblies and usage.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/_NL_2p1 content.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 840,
+      "exportedPath": "projects/NL_2p1/_NL_2p1 content.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/_TODO.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 501,
+      "exportedPath": "projects/NL_2p1/_TODO.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/Design of the modular two-photon microscope with photostimulation implemented in Naumann Lab.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 0,
+      "exportedPath": "projects/NL_2p1/Design of the modular two-photon microscope with photostimulation implemented in Naumann Lab.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/NL_2p1 overview.md": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 1015,
+      "exportedPath": "projects/NL_2p1/NL_2p1 overview.html",
+      "dependencies": []
+    },
+    "projects/NL_2p1/Untitled.canvas": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 2,
+      "exportedPath": "projects/NL_2p1/Untitled.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1722612719262,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    }
+  }
+}
